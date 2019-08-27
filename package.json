@@ -1,0 +1,19 @@
+{
+  "name": "node_shared_module",
+  "version": "1.0.0",
+  "description": "Simple Module to be Shared",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tetigo/node_shared_module.git"
+  },
+  "author": "Tiago Mendes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tetigo/node_shared_module/issues"
+  },
+  "homepage": "https://github.com/tetigo/node_shared_module#readme"
+}
