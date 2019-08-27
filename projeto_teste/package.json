@@ -1,0 +1,14 @@
+{
+  "name": "meu_projeto",
+  "version": "1.0.0",
+  "description": "Simple Project to Import Module From GitHub",
+  "main": "projeto.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tiago Mendes",
+  "license": "MIT",
+  "dependencies": {
+    "node_shared_module": "git+https://github.com/tetigo/node_shared_module.git"
+  }
+}
